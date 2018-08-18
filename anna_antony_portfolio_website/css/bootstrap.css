@@ -68,6 +68,12 @@ hr {
   height: 2px !important;
 }
 
+@media screen and (max-width: 767px) {
+    .mobile {
+      text-align: left;
+    }
+}
+
 /* end own styles */
 
 html {
